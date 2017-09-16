@@ -1,0 +1,14 @@
+h1, a, p, {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px
+  color: white;
+  text-align: center;
+}
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+.wrapper {
+  color: black;
+}
