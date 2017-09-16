@@ -1,14 +1,31 @@
-h1, a, p, {
+h1 {
+  color: white;
+  background-color: black;
   font-family: Verdana;
+  text-align: center;
   font-weight: normal;
   font-size: 50px
-  color: white;
-  text-align: center;
 }
-.link {
+a {
+  text-align: center;
   color: Aquamarine;
+  background-color: black;
   font-size: 16px;
 }
-.wrapper {
-  color: black;
+#page {
+  background-color: black;
+}
+video {
+  object-fit: contain;
+}
+p {
+  color: Gray;
+  font-family: verdana;
+  text-align: center;
+}
+#comingsoon {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weighht: 300;
+  color: white;
 }
